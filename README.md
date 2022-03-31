@@ -1,7 +1,6 @@
 <div align="center">    
-  <a href="https://imperiogames.ml"><img src="https://img.shields.io/badge/-WebSite-0080FF?style=flat-square&labelColor=0080FF&logo=google-chrome&logoColor=white" alt="Github Badge" /></a>  
+  <a href="https://kurieldev.tk"><img src="https://img.shields.io/badge/-Website-0080FF?style=flat-square&labelColor=0080FF&logo=google-chrome&logoColor=white" alt="Github Badge" /></a>  
   <a href="https://github.com/ipaddysz"><img src="https://img.shields.io/badge/-Github-0080FF?style=flat-square&labelColor=0080FF&logo=Github&logoColor=white" alt="Website Badge"/></a>  
-  <a href="https://twitter.com/imp3riogames"><img src="https://img.shields.io/badge/-Twitter-0080FF?style=flat-square&labelColor=0080FF&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
   <a href="https://discordhub.com/profile/354233941550694400"><img src="https://img.shields.io/badge/-Discord-0080FF?style=flat-square&labelColor=0080FF&logo=discord&logoColor=white" alt="Discord Badge"/></a>
 </div>
 
