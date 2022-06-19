@@ -6,7 +6,7 @@
 
 ---
 
-Opa, apenas um Koalin simples que adora programar websites, bots no Discord na linguagem Javascript!
+Opa, sou um simples mini-programador que adora programar websites, bots no Discord na linguagem Javascript, ou até outras linguagens!
 
 #### :building_construction: Linguagens e ferramentas:
 
