@@ -1,6 +1,6 @@
 <div align="center">    
   <a href="https://kurieldev.tk"><img src="https://img.shields.io/badge/-Website-0080FF?style=flat-square&labelColor=0080FF&logo=google-chrome&logoColor=white" alt="Github Badge" /></a>  
-  <a href="https://github.com/ipaddysz"><img src="https://img.shields.io/badge/-Github-0080FF?style=flat-square&labelColor=0080FF&logo=Github&logoColor=white" alt="Website Badge"/></a>  
+  <a href="https://github.com/kuriel23"><img src="https://img.shields.io/badge/-Github-0080FF?style=flat-square&labelColor=0080FF&logo=Github&logoColor=white" alt="Website Badge"/></a>  
   <a href="https://discordhub.com/profile/354233941550694400"><img src="https://img.shields.io/badge/-Discord-0080FF?style=flat-square&labelColor=0080FF&logo=discord&logoColor=white" alt="Discord Badge"/></a>
 </div>
 
@@ -24,5 +24,5 @@ Opa, apenas um Koalin simples que adora programar websites, bots no Discord na l
 
 #### :nerd_face: Algumas estatísticas:
 
-[![my-data](https://github-readme-stats.vercel.app/api?username=ipaddysz&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=4F5159&bg_color=F3F3F3)](https://github.com/ipaddysz)
-[![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipaddysz&layout=compact&title_color=0080ff)](https://github.com/ipaddysz)
+[![my-data](https://github-readme-stats.vercel.app/api?username=kuriel23&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=4F5159&bg_color=F3F3F3)](https://github.com/kuriel23)
+[![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuriel23&layout=compact&title_color=0080ff)](https://github.com/kuriel23)
