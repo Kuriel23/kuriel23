@@ -41,3 +41,5 @@ Opa, sou um simples mini-programador que adora programar websites, bots no Disco
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuriel23&layout=compact&title_color=0080ff" />
 </div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tenha+Um+Ótimo+Dia)](https://git.io/typing-svg)
