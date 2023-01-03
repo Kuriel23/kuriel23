@@ -11,7 +11,7 @@
 ---
 
 <h3 align="center">
-Opa, sou um simples mini-programador que adora programar websites, bots no Discord na linguagem Javascript, ou até outras linguagens!
+Opa, sou um simples programador que adora programar websites, bots no Discord na linguagem Javascript, ou até em outras linguagens!
 </h3>
 
 <h3 align="center">:building_construction: Linguagens e ferramentas:</h3>
@@ -22,7 +22,7 @@ Opa, sou um simples mini-programador que adora programar websites, bots no Disco
 <a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://www.kurieldev.tk/tecnologias/css.svg" width="30"/></a>
 <a href="https://reactjs.org/"><img src="https://www.kurieldev.tk/tecnologias/reactjs.svg" width="30"/></a>
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png" width="30"/></a>
-<a href="https://www.sublimetext.com/"><img src="https://img.icons8.com/fluency/30/0175c5/sublime-text.png" width="30"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/fluency/30/visual-studio-code-2019.png" width="30"/></a>
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/30/f4511e/git.png" width="30"/></a>
 <a href="https://www.microsoft.com/pt-br/windows/"><img src="https://img.icons8.com/office/30/000000/windows-10.png" width="30"/></a>
 <a href="https://www.php.net/manual/pt_BR/index.php"><img src="https://www.kurieldev.tk/tecnologias/php.svg" width="30"/></a>
@@ -33,13 +33,15 @@ Opa, sou um simples mini-programador que adora programar websites, bots no Disco
 <h3 align="center">:nerd_face: Algumas estatísticas:</h3>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kuriel23&show_icons=true&title_color=0080ff&icon_color=0080ff&text_color=4F5159&bg_color=F3F3F3" />
+<img src="https://github-readme-stats.vercel.app/api?username=kuriel23&show_icons=true&title_color=0080ff&icon_color=0080ff&count_private=true&theme=tokyonight&locale=pt-PT" />
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuriel23&layout=compact&title_color=0080ff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuriel23&layout=compact&title_color=0080ff&locale=pt-PT&theme=tokyonight" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tenha+Um+Ótimo+Dia)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=500&pause=1000&width=435&lines=Nunca+deixe+o+medo+da+falha+ou+a;falta+de+conhecimento+o+impedirem+de;+alcan%C3%A7ar+seus+sonhos+como;programador.+Aprenda+continuamente+e+;mantenha+a+paix%C3%A3o+pela+tecnologia;para+se+tornar+um+grande+sucesso+na;sua+carreira." alt="Typing SVG" /></a>
+</div>
