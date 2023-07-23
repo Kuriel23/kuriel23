@@ -11,7 +11,7 @@
 ---
 
 <h3 align="center">
-Opa, sou um simples programador que adora programar websites, bots no Discord na linguagem Javascript, ou até em outras linguagens!
+Opa, sou um simples programador que adora programar websites em React, também uso algumas linguagens para outros projetos!
 </h3>
 
 <h3 align="center">:building_construction: Linguagens e ferramentas:</h3>
