@@ -17,17 +17,15 @@ Opa, sou um simples programador que adora programar websites em React, também u
 <h3 align="center">:building_construction: Linguagens e ferramentas:</h3>
 
 <div align="center">
-<a href="https://javascript.com/"><img src="https://www.kurieldev.tk/tecnologias/js.svg" width="30"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://www.kurieldev.tk/tecnologias/html.svg" width="30"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://www.kurieldev.tk/tecnologias/css.svg" width="30"/></a>
-<a href="https://reactjs.org/"><img src="https://www.kurieldev.tk/tecnologias/reactjs.svg" width="30"/></a>
+<a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/4caf50/javascript.png" width="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.icons8.com/color/30/4caf50/html-5.png" width="30"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/web/CSS"><img src="https://img.icons8.com/color/30/4caf50/css3.png" width="30"/></a>
+<a href="https://reactjs.org/"><img src="https://img.icons8.com/office/30/4caf50/react.png" width="30"/></a>
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png" width="30"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/fluency/30/visual-studio-code-2019.png" width="30"/></a>
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/ios-filled/30/f4511e/git.png" width="30"/></a>
 <a href="https://www.microsoft.com/pt-br/windows/"><img src="https://img.icons8.com/office/30/000000/windows-10.png" width="30"/></a>
-<a href="https://www.php.net/manual/pt_BR/index.php"><img src="https://www.kurieldev.tk/tecnologias/php.svg" width="30"/></a>
 <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/30/4a90e2/mongodb.png" width="30"/></a>
-<a href="https://www.wordpress.com/"><img src="https://www.kurieldev.tk/tecnologias/wp.svg" width="30"/></a>
 </div>
 
 <h3 align="center">:nerd_face: Algumas estatísticas:</h3>
