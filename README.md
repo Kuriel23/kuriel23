@@ -1,9 +1,8 @@
 <div align="center">
-<img src="https://www.kurieldev.tk/logo.webp" />
-<br/>
+<h1>KurielDev</h1>
 </div>
 <div align="center">    
-  <a href="https://kurieldev.tk"><img src="https://img.shields.io/badge/-Website-0080FF?style=flat-square&labelColor=0080FF&logo=google-chrome&logoColor=white" alt="Github Badge" /></a>  
+  <a href="https://kurieldev.vercel.app/"><img src="https://img.shields.io/badge/-Website-0080FF?style=flat-square&labelColor=0080FF&logo=google-chrome&logoColor=white" alt="Github Badge" /></a>  
   <a href="https://github.com/kuriel23"><img src="https://img.shields.io/badge/-Github-0080FF?style=flat-square&labelColor=0080FF&logo=Github&logoColor=white" alt="Website Badge"/></a>  
   <a href="https://discord.com/users/354233941550694400"><img src="https://img.shields.io/badge/-Discord-0080FF?style=flat-square&labelColor=0080FF&logo=discord&logoColor=white" alt="Discord Badge"/></a>
 </div>
