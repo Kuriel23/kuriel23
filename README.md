@@ -10,10 +10,10 @@
 ---
 
 <h3 align="center">
-Opa, sou um simples programador que adora programar websites em React, também uso algumas linguagens para outros projetos!
+Hi! I'm a simple developer who loves programming websites in React, I also use some languages for other projects!
 </h3>
 
-<h3 align="center">:building_construction: Linguagens e ferramentas:</h3>
+<h3 align="center">:building_construction: Languages and tools:</h3>
 
 <div align="center">
 <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/4caf50/javascript.png" width="30"/></a>
@@ -27,18 +27,14 @@ Opa, sou um simples programador que adora programar websites em React, também u
 <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/30/4a90e2/mongodb.png" width="30"/></a>
 </div>
 
-<h3 align="center">:nerd_face: Algumas estatísticas:</h3>
+<h3 align="center">:nerd_face: Some stats:</h3>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kuriel23&show_icons=true&title_color=0080ff&icon_color=0080ff&count_private=true&theme=tokyonight&locale=pt-PT" />
+<img src="https://github-readme-stats.vercel.app/api?username=kuriel23&show_icons=true&title_color=0080ff&icon_color=0080ff&count_private=true&theme=tokyonight" />
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuriel23&layout=compact&title_color=0080ff&locale=pt-PT&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=500&pause=1000&width=435&lines=Nunca+deixe+o+medo+da+falha+ou+a;falta+de+conhecimento+o+impedirem+de;+alcan%C3%A7ar+seus+sonhos+como;programador.+Aprenda+continuamente+e+;mantenha+a+paix%C3%A3o+pela+tecnologia;para+se+tornar+um+grande+sucesso+na;sua+carreira." alt="Typing SVG" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuriel23&layout=compact&title_color=0080ff&theme=tokyonight" />
 </div>
